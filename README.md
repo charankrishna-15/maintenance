@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MaintainIQ - Property Maintenance Request Management System
 
 Problem #39: tenants submit maintenance requests, a machine-learning model predicts
@@ -128,3 +129,6 @@ Database tables: `users` (tenant/staff/manager), `requests`, `status_history`.
 SQLite and the built-in Flask server are meant for development/demo use (use PostgreSQL +
 gunicorn in production); no email/SMS notifications; no photo attachments; no login rate
 limiting or password reset; the urgency model is trained on synthetic text only.
+=======
+# maintenance
+>>>>>>> 8bb9ef518f5b61f2a9e860a8341e038a56ae06fb
